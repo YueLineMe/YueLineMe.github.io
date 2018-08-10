@@ -10,5 +10,6 @@
     <orderEntry type="module" module-name="dao" exported="" />
     <orderEntry type="module" module-name="entity" exported="" />
     <orderEntry type="module" module-name="hello_module" exported="" />
+    <orderEntry type="library" exported="" scope="PROVIDED" name="Tomcat 8.5.292" level="application_server_libraries" />
   </component>
 </module>
